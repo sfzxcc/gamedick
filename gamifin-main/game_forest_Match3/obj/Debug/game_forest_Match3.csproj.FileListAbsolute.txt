@@ -1,0 +1,34 @@
+Z:\gamefin\game_forest_Match3\bin\Debug\game_forest_Match3.exe.config
+Z:\gamefin\game_forest_Match3\bin\Debug\game_forest_Match3.exe
+Z:\gamefin\game_forest_Match3\bin\Debug\game_forest_Match3.pdb
+Z:\gamefin\game_forest_Match3\obj\Debug\game_forest_Match3.csproj.AssemblyReference.cache
+Z:\gamefin\game_forest_Match3\obj\Debug\game_forest_Match3.csproj.SuggestedBindingRedirects.cache
+Z:\gamefin\game_forest_Match3\obj\Debug\game_forest_Match3.MainMenu.resources
+Z:\gamefin\game_forest_Match3\obj\Debug\game_forest_Match3.Properties.Resources.resources
+Z:\gamefin\game_forest_Match3\obj\Debug\game_forest_Match3.csproj.GenerateResource.cache
+Z:\gamefin\game_forest_Match3\obj\Debug\game_forest_Match3.csproj.CoreCompileInputs.cache
+Z:\gamefin\game_forest_Match3\obj\Debug\game_forest_Match3.exe
+Z:\gamefin\game_forest_Match3\obj\Debug\game_forest_Match3.pdb
+Z:\gamefin\game_forest_Match3\obj\Debug\game_forest_Match3.Form1.resources
+Z:\gamefin\game_forest_Match3\obj\Debug\game_forest_Match3.Form2.resources
+Z:\gamefin\game_forest_Match3\obj\Debug\game_forest_Match3.Form3.resources
+Z:\gamefin\game_forest_Match3\obj\Debug\game_forest_Match3.Form5.resources
+Z:\gamefin\game_forest_Match3\obj\Debug\game_forest_Match3.Form6.resources
+Z:\gamefin\game_forest_Match3\obj\Debug\game_forest_Match3.Form7.resources
+C:\Users\lisaa\OneDrive\Рабочий стол\gamifin-main\game_forest_Match3\bin\Debug\game_forest_Match3.exe.config
+C:\Users\lisaa\OneDrive\Рабочий стол\gamifin-main\game_forest_Match3\bin\Debug\game_forest_Match3.exe
+C:\Users\lisaa\OneDrive\Рабочий стол\gamifin-main\game_forest_Match3\bin\Debug\game_forest_Match3.pdb
+C:\Users\lisaa\OneDrive\Рабочий стол\gamifin-main\game_forest_Match3\obj\Debug\game_forest_Match3.csproj.AssemblyReference.cache
+C:\Users\lisaa\OneDrive\Рабочий стол\gamifin-main\game_forest_Match3\obj\Debug\game_forest_Match3.csproj.SuggestedBindingRedirects.cache
+C:\Users\lisaa\OneDrive\Рабочий стол\gamifin-main\game_forest_Match3\obj\Debug\game_forest_Match3.Form1.resources
+C:\Users\lisaa\OneDrive\Рабочий стол\gamifin-main\game_forest_Match3\obj\Debug\game_forest_Match3.Form2.resources
+C:\Users\lisaa\OneDrive\Рабочий стол\gamifin-main\game_forest_Match3\obj\Debug\game_forest_Match3.Form3.resources
+C:\Users\lisaa\OneDrive\Рабочий стол\gamifin-main\game_forest_Match3\obj\Debug\game_forest_Match3.Form5.resources
+C:\Users\lisaa\OneDrive\Рабочий стол\gamifin-main\game_forest_Match3\obj\Debug\game_forest_Match3.Form6.resources
+C:\Users\lisaa\OneDrive\Рабочий стол\gamifin-main\game_forest_Match3\obj\Debug\game_forest_Match3.Form7.resources
+C:\Users\lisaa\OneDrive\Рабочий стол\gamifin-main\game_forest_Match3\obj\Debug\game_forest_Match3.MainMenu.resources
+C:\Users\lisaa\OneDrive\Рабочий стол\gamifin-main\game_forest_Match3\obj\Debug\game_forest_Match3.Properties.Resources.resources
+C:\Users\lisaa\OneDrive\Рабочий стол\gamifin-main\game_forest_Match3\obj\Debug\game_forest_Match3.csproj.GenerateResource.cache
+C:\Users\lisaa\OneDrive\Рабочий стол\gamifin-main\game_forest_Match3\obj\Debug\game_forest_Match3.csproj.CoreCompileInputs.cache
+C:\Users\lisaa\OneDrive\Рабочий стол\gamifin-main\game_forest_Match3\obj\Debug\game_forest_Match3.exe
+C:\Users\lisaa\OneDrive\Рабочий стол\gamifin-main\game_forest_Match3\obj\Debug\game_forest_Match3.pdb
